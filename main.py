@@ -15,7 +15,7 @@ lcd = I2cLcd(i2c, I2C_ADDR, I2C_NUM_ROWS, I2C_NUM_COLS)
 
 sta_if = network.WLAN(network.STA_IF); sta_if.active(True)
 sta_if.scan()
-sta_if.connect("TP-LINK_Extender_9F36A7", "12345678")
+sta_if.connect("YOUR_SSID", "YOUR_PASSWORD")
 time.sleep(2)
 sta_if.isconnected()
 lcd.move_to(0, 0)
