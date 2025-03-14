@@ -5,3 +5,6 @@ i'm not gonna tell you that the code is organised by any means, i put many thing
 
 ~i think it's obvious that the ssid and pw isn't equals to everyone (duh) so at line 18 pls change with yours~
 no i changed my mind, i modified the file and now it's good 🤙
+
+
+14/03/2025: tf did i wrote this code is shit
